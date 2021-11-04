@@ -1,0 +1,60 @@
+C:\Users\Tomas\OneDrive - frc.utn.edu.ar\Documents\GitHub\DSI-PPAI\DSI\bin\Debug\DSI.exe.config
+C:\Users\Tomas\OneDrive - frc.utn.edu.ar\Documents\GitHub\DSI-PPAI\DSI\bin\Debug\DSI.exe
+C:\Users\Tomas\OneDrive - frc.utn.edu.ar\Documents\GitHub\DSI-PPAI\DSI\bin\Debug\DSI.pdb
+C:\Users\Tomas\OneDrive - frc.utn.edu.ar\Documents\GitHub\DSI-PPAI\DSI\obj\Debug\DSI.csprojAssemblyReference.cache
+C:\Users\Tomas\OneDrive - frc.utn.edu.ar\Documents\GitHub\DSI-PPAI\DSI\obj\Debug\DSI.PantallaMenu.resources
+C:\Users\Tomas\OneDrive - frc.utn.edu.ar\Documents\GitHub\DSI-PPAI\DSI\obj\Debug\DSI.PantallaRegistrarReservaVisita.resources
+C:\Users\Tomas\OneDrive - frc.utn.edu.ar\Documents\GitHub\DSI-PPAI\DSI\obj\Debug\DSI.Properties.Resources.resources
+C:\Users\Tomas\OneDrive - frc.utn.edu.ar\Documents\GitHub\DSI-PPAI\DSI\obj\Debug\DSI.csproj.GenerateResource.cache
+C:\Users\Tomas\OneDrive - frc.utn.edu.ar\Documents\GitHub\DSI-PPAI\DSI\obj\Debug\DSI.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\OneDrive - frc.utn.edu.ar\Documents\GitHub\DSI-PPAI\DSI\obj\Debug\DSI.exe
+C:\Users\Tomas\OneDrive - frc.utn.edu.ar\Documents\GitHub\DSI-PPAI\DSI\obj\Debug\DSI.pdb
+C:\Users\Tomas\OneDrive - frc.utn.edu.ar\Documents\GitHub\DSI-PPAI\DSI\bin\Debug\snappy32.dll
+C:\Users\Tomas\OneDrive - frc.utn.edu.ar\Documents\GitHub\DSI-PPAI\DSI\bin\Debug\snappy64.dll
+C:\Users\Tomas\OneDrive - frc.utn.edu.ar\Documents\GitHub\DSI-PPAI\DSI\bin\Debug\libzstd.dll
+C:\Users\Tomas\OneDrive - frc.utn.edu.ar\Documents\GitHub\DSI-PPAI\DSI\bin\Debug\mongocrypt.dll
+C:\Users\Tomas\OneDrive - frc.utn.edu.ar\Documents\GitHub\DSI-PPAI\DSI\bin\Debug\DnsClient.dll
+C:\Users\Tomas\OneDrive - frc.utn.edu.ar\Documents\GitHub\DSI-PPAI\DSI\bin\Debug\MongoDB.Bson.dll
+C:\Users\Tomas\OneDrive - frc.utn.edu.ar\Documents\GitHub\DSI-PPAI\DSI\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Tomas\OneDrive - frc.utn.edu.ar\Documents\GitHub\DSI-PPAI\DSI\bin\Debug\MongoDB.Driver.dll
+C:\Users\Tomas\OneDrive - frc.utn.edu.ar\Documents\GitHub\DSI-PPAI\DSI\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Tomas\OneDrive - frc.utn.edu.ar\Documents\GitHub\DSI-PPAI\DSI\bin\Debug\SharpCompress.dll
+C:\Users\Tomas\OneDrive - frc.utn.edu.ar\Documents\GitHub\DSI-PPAI\DSI\bin\Debug\System.Buffers.dll
+C:\Users\Tomas\OneDrive - frc.utn.edu.ar\Documents\GitHub\DSI-PPAI\DSI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tomas\OneDrive - frc.utn.edu.ar\Documents\GitHub\DSI-PPAI\DSI\bin\Debug\DnsClient.xml
+C:\Users\Tomas\OneDrive - frc.utn.edu.ar\Documents\GitHub\DSI-PPAI\DSI\bin\Debug\MongoDB.Bson.xml
+C:\Users\Tomas\OneDrive - frc.utn.edu.ar\Documents\GitHub\DSI-PPAI\DSI\bin\Debug\MongoDB.Driver.xml
+C:\Users\Tomas\OneDrive - frc.utn.edu.ar\Documents\GitHub\DSI-PPAI\DSI\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Tomas\OneDrive - frc.utn.edu.ar\Documents\GitHub\DSI-PPAI\DSI\bin\Debug\System.Buffers.xml
+C:\Users\Tomas\OneDrive - frc.utn.edu.ar\Documents\GitHub\DSI-PPAI\DSI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Tomas\OneDrive - frc.utn.edu.ar\Documents\GitHub\DSI-PPAI\DSI\obj\Debug\DSI.csproj.CopyComplete
+D:\Escritorio\DSI-PPAI\DSI\bin\Debug\DSI.exe.config
+D:\Escritorio\DSI-PPAI\DSI\bin\Debug\DSI.exe
+D:\Escritorio\DSI-PPAI\DSI\bin\Debug\DSI.pdb
+D:\Escritorio\DSI-PPAI\DSI\obj\Debug\DSI.csproj.AssemblyReference.cache
+D:\Escritorio\DSI-PPAI\DSI\obj\Debug\DSI.PantallaMenu.resources
+D:\Escritorio\DSI-PPAI\DSI\obj\Debug\DSI.PantallaRegistrarReservaVisita.resources
+D:\Escritorio\DSI-PPAI\DSI\obj\Debug\DSI.Properties.Resources.resources
+D:\Escritorio\DSI-PPAI\DSI\obj\Debug\DSI.csproj.GenerateResource.cache
+D:\Escritorio\DSI-PPAI\DSI\obj\Debug\DSI.csproj.CoreCompileInputs.cache
+D:\Escritorio\DSI-PPAI\DSI\obj\Debug\DSI.exe
+D:\Escritorio\DSI-PPAI\DSI\obj\Debug\DSI.pdb
+D:\Escritorio\DSI-PPAI\DSI\bin\Debug\snappy32.dll
+D:\Escritorio\DSI-PPAI\DSI\bin\Debug\snappy64.dll
+D:\Escritorio\DSI-PPAI\DSI\bin\Debug\libzstd.dll
+D:\Escritorio\DSI-PPAI\DSI\bin\Debug\mongocrypt.dll
+D:\Escritorio\DSI-PPAI\DSI\bin\Debug\DnsClient.dll
+D:\Escritorio\DSI-PPAI\DSI\bin\Debug\MongoDB.Bson.dll
+D:\Escritorio\DSI-PPAI\DSI\bin\Debug\MongoDB.Driver.Core.dll
+D:\Escritorio\DSI-PPAI\DSI\bin\Debug\MongoDB.Driver.dll
+D:\Escritorio\DSI-PPAI\DSI\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\Escritorio\DSI-PPAI\DSI\bin\Debug\SharpCompress.dll
+D:\Escritorio\DSI-PPAI\DSI\bin\Debug\System.Buffers.dll
+D:\Escritorio\DSI-PPAI\DSI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Escritorio\DSI-PPAI\DSI\bin\Debug\DnsClient.xml
+D:\Escritorio\DSI-PPAI\DSI\bin\Debug\MongoDB.Bson.xml
+D:\Escritorio\DSI-PPAI\DSI\bin\Debug\MongoDB.Driver.xml
+D:\Escritorio\DSI-PPAI\DSI\bin\Debug\MongoDB.Driver.Core.xml
+D:\Escritorio\DSI-PPAI\DSI\bin\Debug\System.Buffers.xml
+D:\Escritorio\DSI-PPAI\DSI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Escritorio\DSI-PPAI\DSI\obj\Debug\DSI.csproj.CopyComplete
